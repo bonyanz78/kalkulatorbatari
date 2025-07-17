@@ -26,7 +26,7 @@ const baseBrandPrices = {
         price: 410000,
         locationAdjustments: {
             "Indramayu": {
-                "Krangkeng": -80000 // SBI lebih mahal 10000 untuk Cipeundeuy
+                "Krangkeng": -50000 // SBI lebih murah 50000 untuk Krangkeng
             }
         }
     }
