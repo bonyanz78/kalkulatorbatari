@@ -3,19 +3,23 @@
 // beserta penyesuaian ongkos kirim spesifik berdasarkan lokasi.
 
 const baseBrandPrices = {
-    "SSI": { 
+    "SSI - Purwakarta": { 
         price: 390000, 
         locationAdjustments: {} // Tidak ada penyesuaian khusus untuk SSI
     },
-    "Platinum": { 
+    "Platinum - Purwakarta": { 
         price: 380000, 
         locationAdjustments: {} // // Tidak ada penyesuaian khusus untuk Platinum
     },
-    "Acon": { 
+    "Acon - Cikampek": { 
         price: 375000, 
         locationAdjustments: {} // Tidak ada penyesuaian khusus untuk Acon
+	    },
+    "Acon - Bogor": { 
+        price: 360000, 
+        locationAdjustments: {} // Tidak ada penyesuaian khusus untuk Acon
     },
-    "SBI": { 
+    "SBI - Cirebon": { 
         price: 410000,
         locationAdjustments: {
             "Majalengka": {
