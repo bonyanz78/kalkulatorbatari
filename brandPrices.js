@@ -4,15 +4,15 @@
 
 const baseBrandPrices = {
     "SSI - Purwakarta": { 
-        price: 390000, 
+        price: 370000, 
         locationAdjustments: {} // Tidak ada penyesuaian khusus untuk SSI
     },
     "Platinum - Purwakarta": { 
-        price: 380000, 
+        price: 360000, 
         locationAdjustments: {} // // Tidak ada penyesuaian khusus untuk Platinum
     },
     "Acon - Cikampek": { 
-        price: 375000, 
+        price: 360000, 
         locationAdjustments: {} // Tidak ada penyesuaian khusus untuk Acon
 	    },
     "Acon - Bogor": { 
@@ -214,3 +214,4 @@ const baseBrandPrices = {
 		}
     },
 };
+
