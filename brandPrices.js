@@ -20,7 +20,7 @@ const baseBrandPrices = {
         locationAdjustments: {} // Tidak ada penyesuaian khusus untuk Acon
     },
     "SBI - Cirebon": { 
-        price: 410000,
+        price: 380000,
         locationAdjustments: {
             "Majalengka": {
                 "Argapura": -35000,
@@ -214,4 +214,5 @@ const baseBrandPrices = {
 		}
     },
 };
+
 
