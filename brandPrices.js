@@ -113,7 +113,7 @@ const baseBrandPrices = {
 				"Darma": -50000,
 				"Garawangi": -70000,
 				"Hantara": -60000,
-				"Jalaksana": -60000,
+				"Jalaksana": -90000,
 				"Japara": -50000,
 				"Kadugede": -55000,
 				"Kalimanggis": -75000,
@@ -214,5 +214,6 @@ const baseBrandPrices = {
 		}
     },
 };
+
 
 
